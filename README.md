@@ -12,6 +12,8 @@
   </div>
 </div>
 
+<h2 align="center">👅・other</h2>
+
 <div align="center">
 <br>
 <br>
@@ -20,7 +22,6 @@
 </div>
 
 <div align="center">
-<h2>👅・other</h2>
 <strong><a href="">Official Website (soon)</a></strong> |
 <strong><a href="">GoshaBot (soon)</a></strong> |
 <strong><a href="">BobloxScripts (soon)</a></strong> |
