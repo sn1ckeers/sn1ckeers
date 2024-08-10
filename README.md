@@ -7,6 +7,7 @@
   </div>
   <div>
     
-![Best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sn1ckeers&layout=compact&theme=transparent)
+![Best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sn1ckeers&layout=compact&theme=transparent)ㅤㅤ<img src="https://github.com/user-attachments/assets/95b29f30-5daf-4eec-b196-dee6d0c65ef8" width="195">
+
   </div>
 </div>
