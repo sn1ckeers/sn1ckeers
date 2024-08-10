@@ -13,8 +13,8 @@
 </div>
 
 
-<h2>👅・other</h2>
 <div align="center">
+<h2>👅・other</h2>
 <strong><a href="">Official Website</a></strong>
 <strong><a href="">GoshaBot</a></strong>
 <strong><a href="">BobloxScripts</a></strong>
