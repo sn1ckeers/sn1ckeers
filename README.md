@@ -14,7 +14,9 @@
 
 
 <h2>👅・other</h2>
-<strong><a href="#">Official Website</a></strong>
-<strong><a href="#">GoshaBot</a></strong>
-<strong><a href="#">BobloxScripts</a></strong>
+<div align="center">
+<strong><a href="">Official Website</a></strong>
+<strong><a href="">GoshaBot</a></strong>
+<strong><a href="">BobloxScripts</a></strong>
 <strong><a href="https://steamcommunity.com/profiles/76561199195158068/">steam</a></strong>
+</div>
