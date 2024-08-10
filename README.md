@@ -15,10 +15,10 @@
 <h2 align="center">👅・other</h2>
 
 <div align="center">
-<br>
-<br>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sn1ckeers&theme=transparent)](https://git.io/streak-stats)
+<br>
+<br>
 </div>
 
 <div align="center">
