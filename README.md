@@ -12,6 +12,12 @@
   </div>
 </div>
 
+<div align="center">
+<br>
+<br>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sn1ckeers&theme=transparent)](https://git.io/streak-stats)
+</div>
 
 <div align="center">
 <h2>👅・other</h2>
