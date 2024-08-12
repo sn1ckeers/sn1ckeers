@@ -48,8 +48,5 @@ I love cats👅
 </div>
 
 <div align="center">
-<strong><a href="">Official Website (soon)</a></strong> |
-<strong><a href="">GoshaBot (soon)</a></strong> |
-<strong><a href="">BobloxScripts (soon)</a></strong> |
 <strong><a href="https://steamcommunity.com/profiles/76561199195158068/">steam</a></strong>
 </div>
