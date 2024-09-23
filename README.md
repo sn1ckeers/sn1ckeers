@@ -17,36 +17,3 @@
 </div>
 <br>
 <br>
-
-```
-I love cats👅
-```
-
-<br>
-<br>
-<h3>🌺・Languages and tools: </h3>
-
-<div>
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />‏‎
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/fabsch2003/old-discord-icon/main/app.ico" style="padding-right:10px;" />
-  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-  <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-</div>
-
-
-<h2 align="center">👅・other</h2>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sn1ckeers&theme=transparent)](https://git.io/streak-stats)
-<br>
-<br>
-</div>
-
-<div align="center">
-<strong><a href="https://steamcommunity.com/profiles/76561199195158068/">steam</a></strong>
-</div>
